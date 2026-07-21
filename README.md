@@ -82,4 +82,7 @@ I build production-ready solutions from scratch — clean architecture, async-fi
   <a href="https://lolz.live/saysogood">
     <img src="https://img.shields.io/badge/Lolz-FF4F00?style=for-the-badge&logoColor=white" />
   </a>
+  <a href="https://wa.me/79935409949">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
