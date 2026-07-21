@@ -70,15 +70,6 @@ I build production-ready solutions from scratch — clean architecture, async-fi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaySoGooD&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaySoGooD&layout=compact&theme=default&hide_border=true&count_private=true" />
-</p>
-
----
-
 ## 📬 Contact
 
 <p align="left">
