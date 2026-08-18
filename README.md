@@ -9,7 +9,6 @@
 Python backend developer specializing in **automation**, **web scraping**, **backend** and **Telegram bots**.  
 I build production-ready solutions from scratch — clean architecture, async-first, and built to scale.
 
-- 🌐 **Website & portfolio:** [saysogood.dev](https://saysogood.dev)
 - 📦 **Project showcase:** [t.me/SSGPortfolio](https://t.me/SSGPortfolio)
 - 💬 **Telegram:** [@SaySoGooD](https://t.me/SaySoGooD)
 - 🏆 **93 completed orders** · **4.9 / 5** average client rating · **97%** satisfaction
