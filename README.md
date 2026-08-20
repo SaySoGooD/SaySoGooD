@@ -15,6 +15,20 @@ I build production-ready solutions from scratch — clean architecture, async-fi
 
 ---
 
+## 💼 Commercial Experience
+
+### WebScrape Developer — *Private Company* · 1 year
+
+Worked as part of an in-house team delivering backend solutions across internal and client-facing projects.  
+All work is stored in a private corporate GitLab repository.
+
+- ✅ **13 projects** delivered end-to-end — from requirements to production deployment
+- 💯 **100% client satisfaction** across all delivered projects
+- 🔧 Scope ranged from lightweight automation scripts to full-scale backend services
+- 🤝 Collaborated within a team: code reviews, task decomposition, delivery under deadlines
+
+---
+
 ## 🛠 Tech Stack
 
 **Language & Architecture**  
