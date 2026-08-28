@@ -89,8 +89,8 @@ All work is stored in a private corporate GitLab repository.
   <a href="https://t.me/SaySoGooD">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://saysogood.dev">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="mailto:saysogood@outlook.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://lolz.live/saysogood">
     <img src="https://img.shields.io/badge/Lolz-FF4F00?style=for-the-badge&logoColor=white" />
