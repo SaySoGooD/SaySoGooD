@@ -95,7 +95,7 @@ All work is stored in a private corporate GitLab repository.
   <a href="https://lolz.live/saysogood">
     <img src="https://img.shields.io/badge/Lolz-FF4F00?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://wa.me/79935409949">
+  <a href="https://wa.me/995591409434">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
