@@ -11,7 +11,7 @@ I build production-ready solutions from scratch — clean architecture, async-fi
 
 - 📦 **Project showcase:** [t.me/SSGPortfolio](https://t.me/SSGPortfolio)
 - 💬 **Telegram:** [@SaySoGooD](https://t.me/SaySoGooD)
-- 🏆 **93 completed orders** · **4.9 / 5** average client rating · **97%** satisfaction
+- 🏆 **95 completed orders** · **4.9 / 5** average client rating · **97%** satisfaction
 
 ---
 
