@@ -17,7 +17,7 @@ I build production-ready solutions from scratch — clean architecture, async-fi
 
 ## 💼 Commercial Experience
 
-### WebScrape Developer — *Private Company* · 1 year
+### WebScrape Developer — DotDatalabs · 1 year 
 
 Worked as part of an in-house team delivering backend solutions across internal and client-facing projects.  
 All work is stored in a private corporate GitLab repository.
@@ -27,6 +27,7 @@ All work is stored in a private corporate GitLab repository.
 - 🔧 Scope ranged from lightweight automation scripts to full-scale backend services
 - 🤝 Collaborated within a team: code reviews, task decomposition, delivery under deadlines
 
+### Full stack engineer - *Freelance* · 5 year 
 ---
 
 ## 🛠 Tech Stack
